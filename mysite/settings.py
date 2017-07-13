@@ -25,7 +25,7 @@ SECRET_KEY = 'k*6fl3x=j65$))z&%tv8678=g9(k!8i@1v!t^@@k23=w$h)fei'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<sosoking>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'sosoking.pythonanywhere.com']
 
 
 # Application definition
